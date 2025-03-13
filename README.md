@@ -1,16 +1,22 @@
-## Hi there 👋
+Renan Marinho
 
-<!--
-**RenanMarinho809/RenanMarinho809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-end`**
 
-Here are some ideas to get you started:
+Sou um desenvolvedor Back-end apaixonado por tecnologia e soluções escaláveis. Especializado em JavaScript e TypeScript, tenho experiência no desenvolvimento de APIs robustas e eficientes utilizando Node.js, PostgreSQL e MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e Ferramentas
+
+Linguagens: JavaScript, TypeScript
+
+Back-end: Node.js, Express
+
+Banco de Dados: PostgreSQL, MongoDB, Prisma ORM
+
+Autenticação e Segurança: JWT
+
+Testes: Jest
+
+Ferramentas: Git, Postman, Insomnia
+
+📫 Contato
+
