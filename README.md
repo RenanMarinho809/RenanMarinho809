@@ -20,6 +20,16 @@ Sou um desenvolvedor Back-end apaixonado por tecnologia e soluções escaláveis
 
 ---
 
+### 📊 Estatísticas
+
+<div>
+<a href="https://github.com/RenanMarinho809">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMarinho809&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMarinho809&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+---
+
 ### Entre em contato comigo! 📭
 
 <a href="https://www.linkedin.com/in/renanmarinho809" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
