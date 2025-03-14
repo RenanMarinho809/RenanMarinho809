@@ -20,6 +20,10 @@ Sou um desenvolvedor Back-end apaixonado por tecnologia e soluções escaláveis
 
 ---
 
-### 📊 Stats
+### Entre em contato comigo! 📭
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+<a href="www.linkedin.com/in/renanmarinho809" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://w.app/pgrmx1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="mailto:renanmarinho809@gmail.com?subject=Dev&body=Dev+Backend" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+
+
