@@ -4,7 +4,7 @@
 
 💻 Eu sou um desenvolvedor  Back-End 
 
-Sou um desenvolvedor Back-end apaixonado por tecnologia e soluções escaláveis. Especializado em JavaScript e TypeScript, tenho experiência no desenvolvimento de APIs robustas e eficientes utilizando Node.js, PostgreSQL e MongoDB
+A parte que mais gosto no ramo da programação é aprender tecnologias novas e aplicá-las em sistemas. Isso se atesta nas habilidades que coloquei ao lado, estou sempre estudando uma linguagem nova e suas aplicações. Manterei meu serviço sempre atualizado e seguro com as boas práticas da empresa e do mercado.
 
 🚀 Tecnologias e Ferramentas
 
