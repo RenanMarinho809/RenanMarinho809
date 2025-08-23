@@ -1,5 +1,9 @@
 <h4 align="left">👋 Olá, eu sou o Renan Marinho</h4>
 
+<div align="left">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ###
 
 <p align="left">Sou programador Full Stack apaixonado por tecnologia e desenvolvimento de soluções escaláveis e eficientes.  <br>Minha principal stack é baseada em JavaScript e  TypeScript, com forte experiência em desenvolvimento de aplicações modernas e performáticas.</p>
