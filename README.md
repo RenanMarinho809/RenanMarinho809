@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou programador Full Stack apaixonado por tecnologia e desenvolvimento de soluções escaláveis e eficientes.  <br>Minha principal stack é baseada em JavaScript e  TypeScript, com forte experiência em desenvolvimento de aplicações modernas e performáticas.</p>
+<p align="left">Sou movido pelo desafio de aprender novas linguagens e transformar esse conhecimento em soluções reais. Mantenho meu stack tecnológico sempre atualizado para garantir que meu trabalho seja não apenas funcional, mas seguro e pautado nas melhores práticas da indústria.</p>
 
 ###
 
